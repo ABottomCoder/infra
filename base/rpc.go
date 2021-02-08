@@ -1,7 +1,7 @@
 package base
 
 import (
-	"github.com/red_envelope/infra"
+	"github.com/ABottomCoder/infra"
 	log "github.com/sirupsen/logrus"
 	"net"
 	"net/rpc"

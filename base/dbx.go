@@ -1,8 +1,8 @@
 package base
 
 import (
+	"github.com/ABottomCoder/infra"
 	_ "github.com/go-sql-driver/mysql"
-	"github.com/red_envelope/infra"
 	"github.com/sirupsen/logrus"
 	"github.com/tietang/dbx"
 	"github.com/tietang/props/kvs"

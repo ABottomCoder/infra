@@ -1,8 +1,8 @@
 package base
 
 import (
+	"github.com/ABottomCoder/infra"
 	"github.com/kataras/iris/v12"
-	"github.com/red_envelope/infra"
 	"github.com/tietang/go-eureka-client/eureka"
 	"time"
 )

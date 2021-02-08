@@ -1,9 +1,9 @@
 package base
 
 import (
+	"github.com/ABottomCoder/infra"
 	"github.com/go-playground/locales/zh"
 	"github.com/go-playground/universal-translator"
-	"github.com/red_envelope/infra"
 	log "github.com/sirupsen/logrus"
 	"gopkg.in/go-playground/validator.v9"
 	vtzh "gopkg.in/go-playground/validator.v9/translations/zh"
