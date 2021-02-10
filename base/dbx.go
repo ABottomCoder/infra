@@ -8,7 +8,7 @@ import (
 	"github.com/tietang/props/kvs"
 )
 
-//test infra
+//test infra1
 //dbx 数据库实例
 var database *dbx.Database
 
